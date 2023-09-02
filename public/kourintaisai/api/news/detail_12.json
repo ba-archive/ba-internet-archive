@@ -1,1 +1,14 @@
-{"code":0,"data":{"news":{"id":12,"title":"【グルメ情報】完売告知","content":"<p>トリニティ総合学園「ティーパーティー御用達のロールケーキ」が完売とのご連絡が入りました。</p>","publishTime":1664442000000},"preNewsId":13,"nextNewsId":11},"msg":"ok"}
+{
+  "code": 0,
+  "data": {
+    "news": {
+      "id": 12,
+      "title": "【グルメ情報】完売告知",
+      "content": "<p>トリニティ総合学園「ティーパーティー御用達のロールケーキ」が完売とのご連絡が入りました。</p>",
+      "publishTime": 1664442000000
+    },
+    "preNewsId": 13,
+    "nextNewsId": 11
+  },
+  "msg": "ok"
+}

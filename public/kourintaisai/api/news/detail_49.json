@@ -1,1 +1,14 @@
-{"code":0,"data":{"news":{"id":49,"title":"【競技速報】窓ふきレース","content":"<p>ミレニアムサイエンススクールの「室笠アカネ」選手、見事な腕前を見せて堂々の勝利。</p>","publishTime":1665997200000},"preNewsId":52,"nextNewsId":50},"msg":"ok"}
+{
+  "code": 0,
+  "data": {
+    "news": {
+      "id": 49,
+      "title": "【競技速報】窓ふきレース",
+      "content": "<p>ミレニアムサイエンススクールの「室笠アカネ」選手、見事な腕前を見せて堂々の勝利。</p>",
+      "publishTime": 1665997200000
+    },
+    "preNewsId": 52,
+    "nextNewsId": 50
+  },
+  "msg": "ok"
+}
