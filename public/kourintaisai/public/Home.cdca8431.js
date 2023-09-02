@@ -12456,17 +12456,17 @@ const Us = n => (en('data-v-21e28708'), (n = n()), tn(), n),
                 U(
                   'div',
                   { onClick: ae[7] || (ae[7] = oe => Q(1)), class: 'nav_item' },
-                  '\u30CB\u30E5\u30FC\u30B9'
+                  '新闻'
                 ),
                 U(
                   'div',
                   { onClick: ae[8] || (ae[8] = oe => Q(2)), class: 'nav_item' },
-                  '\u6644\u8F2A\u5927\u796D\u3068\u306F'
+                  '关于晄轮大祭'
                 ),
                 U(
                   'div',
                   { onClick: ae[9] || (ae[9] = oe => Q(3)), class: 'nav_item' },
-                  '\u5B9F\u884C\u59D4\u54E1\u4F1A\u3088\u308A'
+                  '来自执行委员会'
                 ),
                 U(
                   'div',
@@ -12474,7 +12474,7 @@ const Us = n => (en('data-v-21e28708'), (n = n()), tn(), n),
                     onClick: ae[10] || (ae[10] = oe => Q(4)),
                     class: 'nav_item',
                   },
-                  '\u30D7\u30ED\u30B0\u30E9\u30E0'
+                  '项目'
                 ),
                 U(
                   'div',
