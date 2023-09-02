@@ -1,0 +1,38 @@
+name: Deploy Archive To Production
+on:
+  push:
+    branches:
+      - master
+      - main
+
+concurrency:
+  group: "archive-production-deploy"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+      - uses: pnpm/action-setup@v2
+        with:
+          version: latest
+      - name: Install dependencies
+        run: pnpm install
+      - name: Vite build
+        run: pnpm build
+      - name: Viewer rsync deploy
+        uses: easingthemes/ssh-deploy@main
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SERVER_PASS_PRODUCTION }}
+          ARGS: "-rltgoDzvO --delete"
+          SOURCE: "./dist/"
+          REMOTE_HOST: ${{ secrets.SERVER_HOST_PRODUCTION }}
+          REMOTE_USER: ${{ secrets.SERVER_USER_PRODUCTION }}
+          TARGET: "/var/www/web_archive"
+          EXCLUDE: ".git*"

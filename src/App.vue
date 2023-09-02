@@ -6,6 +6,12 @@ const archiveList = [
     date: '2022/01/22',
     icon: '/2nd-anniversary/img/logo.1b872cbe.svg',
   },
+  {
+    title: '「晄輪大祭」公式サイト',
+    url: '/kourintaisai/index.html',
+    date: '2022/10/22',
+    icon: '/2nd-anniversary/img/logo.1b872cbe.svg',
+  },
 ];
 </script>
 

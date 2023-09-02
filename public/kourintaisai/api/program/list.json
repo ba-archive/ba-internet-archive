@@ -1,0 +1,44 @@
+{
+    "code": 0,
+    "data": {
+        "count": 5,
+        "rows": [
+            {
+                "pc": "./public/2PBI9fZD.png",
+                "mobile": "./public/gXjSbKpF.png",
+                "title": "障害物競走",
+                "description": "10月29日20時から晄輪大祭注目種目！障害物競走が始まりますよ！生徒さんの活躍楽しみですね♪",
+                "link": "https://www.youtube.com/watch?v=ReRoCot6ZKE"
+            },
+            {
+                "pc": "./public/YcLtnuE_.jpeg",
+                "mobile": "./public/9qpJWaWt.jpeg",
+                "title": "「激走！！キヴォトス式トレーニング！」",
+                "description": "キヴォトス大運動会――通称「晄輪大祭」を前にして、トレーニングを始めることにしたシロコとスミレ。適宜水分補給をしつつ、トレーニングに励む彼女たちを応援しましょう！",
+                "link": "https://bluearchive.jp/kourintaisai/game01/"
+            },
+            {
+                "pc": "./public/MFh_YSwc.png",
+                "mobile": "./public/RV8VpMFL.png",
+                "title": "キヴォトス晄輪大祭Twitterツイートキャンペーン",
+                "description": "キヴォトスの大運動会である「晄輪大祭」では数多くの競技が行われますが、その中で一部競技の選手紹介と競技結果をピックアップ！\nさらに、誰が勝つか予想し、ツイートすると抽選で豪華グッズがもらえるチャンス！\n詳細は公式Twitterにてご確認ください。",
+                "link": "https://twitter.com/Blue_ArchiveJP"
+            },
+            {
+                "pc": "./public/omWh5bWQ.jpeg",
+                "mobile": "./public/Sog_0W7L.jpeg",
+                "title": "（配信版）キヴォトス晄輪大祭 Other side stories",
+                "description": "ゲーム内のシナリオでは描かれなかった「晄輪大祭」での別側面の物語が、ライトノベルや漫画、ドラマCDになりました！\n・舞台袖のかくしごと～キヴォトス晄輪大祭～（ドラマCD）\n・表舞台のかくしあじ～キヴォトス晄輪大祭～（ライトノベル）\n・舞台裏へのかくれんぼ～キヴォトス晄輪大祭～（漫画）\n3作品をセットで販売致します！\n晄輪大祭での生徒たちの活躍を是非お確かめください。\n※配信版には特装ボックス、ポストカードは内容に含まれません。",
+                "link": "https://www.dlsite.com/comic/work/=/product_id/BJ632382.html"
+            },
+            {
+                "pc": "./public/gVwzOrJN.png",
+                "mobile": "./public/Lggk00EY.png",
+                "title": "キヴォトス晄輪大祭 Other side stories",
+                "description": "ゲーム内のシナリオでは描かれなかった「晄輪大祭」での別側面の物語が、ライトノベルや漫画、ドラマCDになりました！\n・舞台袖のかくしごと～キヴォトス晄輪大祭～（ドラマCD）\n・表舞台のかくしあじ～キヴォトス晄輪大祭～（ライトノベル）\n・舞台裏へのかくれんぼ～キヴォトス晄輪大祭～（漫画）\n3作品をセットで販売致します！\n晄輪大祭での生徒たちの活躍を是非お確かめください。\nセットには特典として特装ボックス、3作品のカバーイラストを使用したポストカードがついてきます！",
+                "link": "https://yostarshop.com/view/item/000000000378"
+            }
+        ]
+    },
+    "msg": "ok"
+}
