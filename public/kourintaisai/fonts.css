@@ -1,0 +1,24 @@
+@font-face {
+  font-style: normal;
+  font-weight: 400;
+  src: url(./GOTHIC.3a9cbb5d.TTF);
+  font-family: GOTHIC;
+}
+@font-face {
+  font-style: normal;
+  font-weight: 400;
+  src: url(./GOTHICB.90cb613b.TTF);
+  font-family: GOTHICB;
+}
+@font-face {
+  font-style: normal;
+  font-weight: 400;
+  src: url(./GOTHICBI.2dc5949d.TTF);
+  font-family: GOTHICBI;
+}
+@font-face {
+  font-style: normal;
+  font-weight: 400;
+  src: url(./GOTHICI.6cf57be6.TTF);
+  font-family: GOTHICI;
+}

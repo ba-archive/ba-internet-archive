@@ -5058,7 +5058,7 @@ var Hl = ft(Kl, [['__scopeId', 'data-v-7629dc0d']]),
     'data:image/png;base64,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';
 const df = { class: 'committee' },
   cf = rs(
-    '<div class="commit_title" id="anchor3" data-v-578d714a>\u5B9F\u884C\u59D4\u54E1\u4F1A\u3088\u308A</div><div class="commit_desc" data-v-578d714a> \u69D8\u3005\u306A\u5B66\u6821\u304C\u5165\u308A\u4E71\u308C\u308B\u300C\u6644\u8F2A\u5927\u796D\u300D\u306B\u304A\u3044\u3066\u7AF6\u6280\u904B\u55B6\u3092\u5186\u6ED1\u306B\u304B\u3064\u516C\u6B63\u306B\u9032\u3081\u308B\u305F\u3081\u3001\u904B\u55B6\u3092\u62C5\u5F53\u3059\u308B\u5B66\u6821\u3068\u306F\u307E\u305F\u5225\u306E\u300C\u5B9F\u884C\u59D4\u54E1\u4F1A\u300D\u304C\u8A2D\u3051\u3089\u308C\u3066\u304A\u308A\u307E\u3059\u3002\u3053\u3061\u3089\u306F\u69D8\u3005\u306A\u5B66\u6821\u306E\u751F\u5F92\u304B\u3089\u6210\u308A\u7ACB\u3063\u3066\u304A\u308A\u3001\u516C\u6B63\u3055\u3068\u5B89\u5168\u6027\u306E\u305F\u3081\u306B\u6D3B\u52D5\u3059\u308B\u7D44\u7E54\u3068\u306A\u3063\u3066\u3044\u307E\u3059\u3002 </div><div class="avtar_list" data-v-578d714a><div class="avatar_item" data-v-578d714a><div class="avatar_icon_wrapper" data-v-578d714a><img src="' +
+    '<div class="commit_title" id="anchor3" data-v-578d714a>来自执行委员会</div><div class="commit_desc" data-v-578d714a> \u69D8\u3005\u306A\u5B66\u6821\u304C\u5165\u308A\u4E71\u308C\u308B\u300C\u6644\u8F2A\u5927\u796D\u300D\u306B\u304A\u3044\u3066\u7AF6\u6280\u904B\u55B6\u3092\u5186\u6ED1\u306B\u304B\u3064\u516C\u6B63\u306B\u9032\u3081\u308B\u305F\u3081\u3001\u904B\u55B6\u3092\u62C5\u5F53\u3059\u308B\u5B66\u6821\u3068\u306F\u307E\u305F\u5225\u306E\u300C\u5B9F\u884C\u59D4\u54E1\u4F1A\u300D\u304C\u8A2D\u3051\u3089\u308C\u3066\u304A\u308A\u307E\u3059\u3002\u3053\u3061\u3089\u306F\u69D8\u3005\u306A\u5B66\u6821\u306E\u751F\u5F92\u304B\u3089\u6210\u308A\u7ACB\u3063\u3066\u304A\u308A\u3001\u516C\u6B63\u3055\u3068\u5B89\u5168\u6027\u306E\u305F\u3081\u306B\u6D3B\u52D5\u3059\u308B\u7D44\u7E54\u3068\u306A\u3063\u3066\u3044\u307E\u3059\u3002 </div><div class="avtar_list" data-v-578d714a><div class="avatar_item" data-v-578d714a><div class="avatar_icon_wrapper" data-v-578d714a><img src="' +
       Ql +
       '" alt="" class="avatar_icon" data-v-578d714a><img class="avatar_pop" src="' +
       zl +
@@ -12163,7 +12163,7 @@ const Us = n => (en('data-v-21e28708'), (n = n()), tn(), n),
     U(
       'div',
       { class: 'news_top_title', id: 'anchor1' },
-      '\u30CB\u30E5\u30FC\u30B9',
+      '新闻',
       -1
     )
   ),
@@ -12410,7 +12410,7 @@ const Us = n => (en('data-v-21e28708'), (n = n()), tn(), n),
                         class: 'title_item',
                         onClick: ae[2] || (ae[2] = oe => Q(1)),
                       },
-                      '\u30CB\u30E5\u30FC\u30B9'
+                      '新闻'
                     ),
                     U(
                       'li',
@@ -12426,7 +12426,7 @@ const Us = n => (en('data-v-21e28708'), (n = n()), tn(), n),
                         class: 'title_item',
                         onClick: ae[4] || (ae[4] = oe => Q(3)),
                       },
-                      '\u5B9F\u884C\u59D4\u54E1\u4F1A\u3088\u308A'
+                      '来自执行委员会'
                     ),
                     U(
                       'li',
@@ -12482,10 +12482,7 @@ const Us = n => (en('data-v-21e28708'), (n = n()), tn(), n),
                     onClick: ae[11] || (ae[11] = oe => Q(5)),
                     class: 'nav_item',
                   },
-                  '\u6CE8\u76EE\u6821\u30FB\u6CE8\u76EE\u751F\u5F92'
-                ),
-                ce(
-                  ' <div @click="toAnchor(6)" class="nav_item">\u7269\u8CA9\u60C5\u5831</div> '
+                  '亮点学校・亮点学生'
                 ),
                 U('img', {
                   class: 'twi',
