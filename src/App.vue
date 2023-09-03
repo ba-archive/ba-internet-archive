@@ -1,15 +1,15 @@
 <script setup lang="ts">
 const archiveList = [
   {
-    title: 'ブルーアーカイブ ｜ 2周年記念特設サイト',
+    title: '蔚蓝档案 ｜ 2周年纪念特设网站',
     url: '/2nd-anniversary/index.html',
-    date: '2022/01/22',
+    date: '2023/01/22',
     icon: '/2nd-anniversary/img/logo.1b872cbe.svg',
   },
   {
-    title: '「晄輪大祭」公式サイト',
+    title: '「晄轮大祭」正式网站',
     url: '/kourintaisai/index.html',
-    date: '2022/10/22',
+    date: '2022/11/29',
     icon: '/2nd-anniversary/img/logo.1b872cbe.svg',
   },
 ];
