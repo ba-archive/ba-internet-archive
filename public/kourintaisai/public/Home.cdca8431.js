@@ -4605,22 +4605,22 @@ const Ti = {
   xe = [
     {
       studentName: '',
-      schoolName: '千年',
-      desc: '以高超的科学技术为傲的实力学校，同时也是本次的主办方。本次的晄轮大祭也会从科学的论证上验证所有的可能性，并高效率，稳定的剑指胜利。能否不被各种各样的变数所影响，证明胜利的方程式吗？',
+      schoolName: '千年科技',
+      desc: '以高超的科学技术为傲的实力派学校，同时也是本次大会的主办方。在本次晄轮大祭中也将以科学的方法验证一切可能性，高效、稳健地剑指胜利。究竟她们能否排除各种各样变数的干扰，证出胜利的方程式呢？',
       leftImg: null,
       avatarImg: new URL('./public/1mss.1757adbf.png', self.location).href,
     },
     {
       studentName: '',
       schoolName: '圣三一',
-      desc: '是基沃托斯最大的学校之一，以悠久的传统和规矩而自豪。尽管作为文静优雅的大小姐学校的形象在晄轮大祭中常常被小看，但是在艺术和武术两方面的坚实实力都不容小觑。也绝不能轻视在绝境中的大小姐们。',
+      desc: '基沃托斯最大的学校之一，以其悠久的传统与礼节为傲。也许是因为文静优雅的大小姐学校形象，在晄轮大祭中常常不被对手放在眼里，不过其文武双全的坚实实力可不容小觑。永远不要小瞧了绝境中的大小姐们。',
       leftImg: null,
       avatarImg: new URL('./public/2trinity.ce67aaac.png', self.location).href,
     },
     {
       studentName: '',
       schoolName: '格黑娜',
-      desc: '被以自由为名的混沌所支配的巨大学院。虽然所属学生们的纯粹的个人技能和运动神经都相当的高，但是学校里有很多不被规则所束缚，不在轨道的学生，因此唯一需要注意的可能是因为违反规则而被取消资格和合作上的危险，吧。',
+      desc: '被以自由为名的混沌所支配的巨大学院。虽然其成员们的技能水平出类拔萃，运动神经也都相当发达，但是学校里存在着许多不受规章制度所束缚，行为脱轨的学生，因此唯一需要注意的可能就是会因为违反规则而被取消资格，以及相互合作时容易产生的危险吧。',
       leftImg: null,
       avatarImg: new URL('./public/3gehena.61dfd3ec.png', self.location).href,
     },
@@ -4628,49 +4628,49 @@ const Ti = {
       studentName: '堇',
       schoolName:
         '千年科技学院',
-      desc: '千年科技学院所属，在千年里十分罕见的肉体派“训练部”成员「乙花堇」。相传她是千年中最干劲十足的学生，也确实能看到她十分的活跃。可不要错过她使用最先端的科学技术所磨练出来的肌肉爆发的瞬间。在比赛开始前的采访中所说”世界上所有的问题都可以通过肌肉和运动来解决“。究竟是否能够将她的话付出实践吗？十分令人关注。',
+      desc: '千年科技学院所属，在千年科技中少见地崇尚肉体派的训练部成员「乙花堇」。相传她是千年中最有干劲的学生，表现也确实十分亮眼。可不要错过她那使用了最尖端科学技术所磨炼出来的肌肉爆发的瞬间。在提前采访中，她表示：“世界上没什么是不能用肌肉和运动解决的。”她能否证明她的理念呢？就让我们拭目以待吧。',
       leftImg: new URL('./public/mss.c9cb2566.png', self.location).href,
       avatarImg: new URL('./public/4sumire.42c8800f.png', self.location).href,
     },
     {
       studentName: '鹤城',
-      schoolName: '圣三一综合学院',
-      desc: '属于圣三一综合学院的正义实现委员会的委员长「剑先 鹤城」，被称为『行走的战略兵器』，只要不陷入了无法控制的暴走状态，她那基沃托斯中屈指可数的实力在晄轮大祭中也能毫无遗憾的发挥出来吧。虽然斗胆进行了提前采访，但是非常抱歉的是，从采访中途开始我们就听不清她在说什么了，不得已只能作罢。(采访者注：虽然很可怕，但是其实是好人)',
+      schoolName: '圣三一综合学园',
+      desc: '圣三一综合学园所属，正义实现委员会的委员长「剑先鹤城」，只要不是陷入不受控的暴走状态，她那基沃托斯中首屈一指、被称为『行走的战略兵器』的高强实力也能够尽数发挥出来吧。尽管斗胆进行了提前采访，但是遗憾的是，从采访中途开始我们就听不清她在说什么了，不得已只能作罢。(采访者注：虽然很可怕，但是其实是好人)',
       leftImg: new URL('./public/trinity.ce49100f.png', self.location).href,
       avatarImg: new URL('./public/5tsurugi.81bd11b1.png', self.location).href,
     },
     {
       studentName: '日奈',
-      schoolName: '格黑娜学院',
-      desc: '格黑娜学院所属，以基沃托斯中屈指可数的强者而所闻名的风纪委员会长「空崎 日奈」。超高水平的技能在个人竞技中会大放光彩不说，从那高超的指挥能力看来，可以预想到在团队竞技中也能毫无保留的发挥她的能力。提前采访被风纪委员会的行政官所回绝。有消息说她因为每天的繁重工作积攒了很多疲惫，不过格黑娜的顶梁柱的动向果然还是很令人关注。',
+      schoolName: '格黑娜学园',
+      desc: '格黑娜学园所属，以全基沃托斯首屈一指的超群实力而闻名的风纪委员长「空崎日奈」。精湛的技艺将在个人项目中大放光彩自不必多说，从其高超的指挥能力来看，团队项目中她的实力也能够发挥得淋漓尽致。提前采访的要求被风纪委员会的行政官回绝了。有消息称她因为每天繁重的工作深陷疲惫，不过格黑娜顶梁柱的动向果然还是很令人好奇。',
       leftImg: new URL('./public/gehena.5f2c5911.png', self.location).href,
       avatarImg: new URL('./public/6hina.f1c34326.png', self.location).href,
     },
     {
       studentName: '白子',
-      schoolName: '阿拜多斯高等学校',
-      desc: '阿拜多斯高等学校所属，对策委员会的重要队长「砂狼 白子」。虽然阿拜多斯的学生数处于相当不利的地位，但是她的身体能力可是非同寻常。几次拜访都由于她外出训练不在，提前采访未能实现，但是这份成功一定能在那天的体育场上成为焦点。（补充：据消息称她携带了反坦克导弹。）',
+      schoolName: '阿比多斯高等学校',
+      desc: '阿比多斯高等学校所属，对策委员会的突击队长「砂狼白子」。虽然在学生数量上阿比多斯处于相当不利的地位，但她的体能可是非同寻常。前去拜访了数次都因为她外出训练不在而使得采访计划无功而返，不过这份刻苦训练的成果我们一定能够在当天的体育场上亲眼见到吧。（补充：有消息称她携带了反坦克导弹）',
       leftImg: new URL('./public/abydos.59c421da.png', self.location).href,
       avatarImg: new URL('./public/7shiroko.09212e07.png', self.location).href,
     },
     {
       studentName: '宫子',
       schoolName: 'SRT特殊学园',
-      desc: 'SRT特殊学园所属，RABBIT小队的「月雪 宫子」。SRT特殊学园已经被官方关闭，但是本次收到了夏莱推荐状而特别参战。当听到SRT的名字，果然还是会对其能力有很高的期待。由于事前在我们拜访的公园里设置了许多陷阱，提前采访未能实现，但是大家的目光都集中在了她身上，看到底能否发挥SRT真正的价值。',
+      desc: 'SRT特殊学园所属，RABBIT小队的「月雪宫子」。尽管已经被官方关停，但此次由于夏莱向主办方递交了推荐信，SRT特殊学园破例获得了参战的资格。一听到SRT的名字，果然还是会让人不禁对其能力充满很高的预期。由于我们前去拜访的公园里被提前设置了许多陷阱，所以没能采访到本人。她最终能否发挥出SRT的真本事呢，所有人对此都十分期待。',
       leftImg: new URL('./public/srt.58d0ea1a.png', self.location).href,
       avatarImg: new URL('./public/8miyako.5a3b06c4.png', self.location).href,
     },
     {
       studentName: '泉奈',
       schoolName: '百鬼夜行联合学院',
-      desc: '百鬼夜行联合学院所属，忍术研究部的新入部员「久田 泉奈」。她所表演的各种多彩「忍法」已经是活动举办前各个地方所关注的焦点。在提前采访中“为了成为基沃托斯最强的忍者而在努力！在看着吗？满殿，月咏殿，主公!” 在比赛结束后，忍术研究部的名字会不会传遍整个基沃托斯呢？',
+      desc: '百鬼夜行联合学院所属，忍术研究部的新部员「久田泉奈」。在晄轮大祭正式开始前，她所使出的各种多彩「忍法」就已经吸引了各地的目光。提前采访中她说：“我会努力成为基沃托斯最强的忍者！你们在看吗？满殿下、月咏殿下、主公殿下！” 忍术研究部的大名究竟能否经此一役传遍整个基沃托斯呢？',
       leftImg: new URL('./public/hyakkiyako.7539bca2.png', self.location).href,
       avatarImg: new URL('./public/9izuna.0cc94810.png', self.location).href,
     },
     {
       studentName: '晴奈',
       schoolName: '格黑娜学园',
-      desc: '格黑娜学园所属，美食研究会的部长「黑馆 晴奈」。被称为基沃托斯第一美食家，她的目的地到底是竞技场，还是竞技场周围的美食摊位？不论怎么说，所有目光集中在了为了美食不惜一切代价的她的动向上。提前采访中"当身体在不断的运动中享受了美好的时光，肚子也会变空。也就是说，体育祭也是通往美食之路的一步',
+      desc: '格黑娜学园所属，美食研究会的部长「黑馆晴奈」。被称为基沃托斯首席美食家的她，此行的目的地究竟是比赛会场，还是会场周边的美食摊位呢？不论如何，所有人目光都汇聚在了为美食不择手段的她在晄轮大祭中的动向上。提前采访中她说：“当身体在不断的运动中度过快乐的时光后，肚子也会饿起来。也就是说，体育节也是通往美食之路的一步。”',
       leftImg: new URL('./public/gehena.5f2c5911.png', self.location).href,
       avatarImg: new URL('./public/10haruna.9d7ae525.png', self.location).href,
     },
@@ -4678,14 +4678,14 @@ const Ti = {
       studentName: '响',
       schoolName:
         '千年科技学院',
-      desc: '千年科技学院所属，很多工匠大师们聚集的工程部的一年生「猫塚响」。 似乎本次并不作为选手参加，而是作为拉拉队队长参战的样子。提前采访中"应援用无人机和这套衣服都是自己制作的，虽然很害羞，但我会加油的"。看起来大家都无法把目光从她的制作物上移开呢。',
+      desc: '千年科技学院所属，工匠大师云集的工程部的一年级学生「猫塚响」。 她在本次运动会中似乎并不作为选手登场，而是以啦啦队队长的身份参战。在提前采访中她说道：“应援用无人机和这套衣服都是我自己做的，虽然穿成这样很让人害羞，但我会加油的。”看起来大家都无法把目光从她的作品上移开呢。',
       leftImg: new URL('./public/mss.c9cb2566.png', self.location).href,
       avatarImg: new URL('./public/11hibiki.7f723c79.png', self.location).href,
     },
     {
       studentName: '芹娜',
       schoolName: '圣三一综合学园',
-      desc: '圣三一综合学园所属，救护骑士团的「鹫见芹娜」。她并不是本次的选手，但是负责合同医疗本部的工作而引起了关注。提前采访中说到"不管是什么学校，如果收到了伤害的话请到合同医疗本部来。当天会很热的样子，一定要小心中暑呢！"。这里也借此机会感谢负责医疗服务的人们。',
+      desc: '圣三一综合学园所属，救护骑士团的「鹫见芹娜」。她并不是本次的选手，但因为负责合同医疗本部的工作而受到了关注。她在提前采访中说道：“不管是来自哪个学校的学生，如果受伤了的话就请到合同医疗本部来。比赛当天应该会很热，请大家千万小心，不要中暑哦！”。借此机会也向负责医疗服务工作的各位道一声感谢。',
       leftImg: new URL('./public/trinity.ce49100f.png', self.location).href,
       avatarImg: new URL('./public/12serina.b3e0222c.png', self.location).href,
     },
@@ -4696,7 +4696,7 @@ const Cl = n => (en('data-v-7629dc0d'), (n = n()), tn(), n),
     U(
       'div',
       { class: 'zhumu_title', id: 'anchor5' },
-      '\u6CE8\u76EE\u6821\u30FB\u6CE8\u76EE\u751F\u5F92',
+      '亮点学校・亮点学生',
       -1
     )
   ),
@@ -5058,7 +5058,7 @@ var Hl = ft(Kl, [['__scopeId', 'data-v-7629dc0d']]),
     'data:image/png;base64,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';
 const df = { class: 'committee' },
   cf = rs(
-    '<div class="commit_title" id="anchor3" data-v-578d714a>来自执行委员会</div><div class="commit_desc" data-v-578d714a> \u69D8\u3005\u306A\u5B66\u6821\u304C\u5165\u308A\u4E71\u308C\u308B\u300C\u6644\u8F2A\u5927\u796D\u300D\u306B\u304A\u3044\u3066\u7AF6\u6280\u904B\u55B6\u3092\u5186\u6ED1\u306B\u304B\u3064\u516C\u6B63\u306B\u9032\u3081\u308B\u305F\u3081\u3001\u904B\u55B6\u3092\u62C5\u5F53\u3059\u308B\u5B66\u6821\u3068\u306F\u307E\u305F\u5225\u306E\u300C\u5B9F\u884C\u59D4\u54E1\u4F1A\u300D\u304C\u8A2D\u3051\u3089\u308C\u3066\u304A\u308A\u307E\u3059\u3002\u3053\u3061\u3089\u306F\u69D8\u3005\u306A\u5B66\u6821\u306E\u751F\u5F92\u304B\u3089\u6210\u308A\u7ACB\u3063\u3066\u304A\u308A\u3001\u516C\u6B63\u3055\u3068\u5B89\u5168\u6027\u306E\u305F\u3081\u306B\u6D3B\u52D5\u3059\u308B\u7D44\u7E54\u3068\u306A\u3063\u3066\u3044\u307E\u3059\u3002 </div><div class="avtar_list" data-v-578d714a><div class="avatar_item" data-v-578d714a><div class="avatar_icon_wrapper" data-v-578d714a><img src="' +
+    '<div class="commit_title" id="anchor3" data-v-578d714a>执行委员会</div><div class="commit_desc" data-v-578d714a> 为了在各学校同台竞技的混乱情况下确保「晄轮大祭」比赛的顺利运营与公平公正，除了主办方学校外，还设有另一组织「执行委员会」。该组织由来自不同学校的学生组成，致力于维护大会的公正与安全。 </div><div class="avtar_list" data-v-578d714a><div class="avatar_item" data-v-578d714a><div class="avatar_icon_wrapper" data-v-578d714a><img src="' +
       Ql +
       '" alt="" class="avatar_icon" data-v-578d714a><img class="avatar_pop" src="' +
       zl +
@@ -12442,7 +12442,7 @@ const Us = n => (en('data-v-21e28708'), (n = n()), tn(), n),
                         class: 'title_item',
                         onClick: ae[6] || (ae[6] = oe => Q(5)),
                       },
-                      '\u6CE8\u76EE\u6821\u30FB\u6CE8\u76EE\u751F\u5F92'
+                      '亮点学校・亮点学生'
                     ),
                     ce(
                       ' <li class="title_item" @click="toAnchor(6)">\u7269\u8CA9\u60C5\u5831</li> '
@@ -12852,7 +12852,7 @@ const qi = n => (en('data-v-372ef78e'), (n = n()), tn(), n),
   Vc = rs(
     '<img class="daji_title" id="anchor2" src="' +
       Dc +
-      '" alt="" data-v-372ef78e><div class="article" data-v-372ef78e><div class="article_title" data-v-372ef78e>概要</div><div class="title_bar yellow" data-v-372ef78e></div><div class="article_text" data-v-372ef78e> 基沃托斯大运动会——通称「晄轮大祭」，是由联邦学生会「行政委员会」所主导，2年1次举办，基沃托斯最大级别的体育祭。每个学校轮流担当主要运营，运营校有很大的自由裁量权，每个学校的技术与文化都会得到强烈的体现，如同博览会一样。今年的运营学校是「千年科学学校」。 </div></div>',
+      '" alt="" data-v-372ef78e><div class="article" data-v-372ef78e><div class="article_title" data-v-372ef78e>概要</div><div class="title_bar yellow" data-v-372ef78e></div><div class="article_text" data-v-372ef78e> 基沃托斯大运动会——通称「晄轮大祭」，是由联邦学生会「行政委员会」所主导、每2年举办1届、基沃托斯最大级别的体育盛会。各个学校轮流担任主办方，掌管运营方面的自由裁量权，同时每个学校的技术与文化都会在大运动会上得到强烈的体现，就仿佛是一场博览会一般。今年的主办方是「千年科技学院」。 </div></div>',
     2
   ),
   jc = { class: 'article' },
@@ -12864,7 +12864,7 @@ const qi = n => (en('data-v-372ef78e'), (n = n()), tn(), n),
     U(
       'div',
       { class: 'article_text' },
-      ' 「晄轮大祭」基于「通过运动学习并成长」的理念，是一个让学生们跨越学校的界限互相交流的祭典。我们期待着在公正的规则下，学生们向自身的界限和可能性挑战，并为学校间的交流做出贡献。作为全体学生们共同享受，共同参与的祭典，希望各位学生们都提出新的建议或积极的参与。',
+      '「晄轮大祭」秉持着「在运动中学习并成长」的理念，是一场鼓励学生们不分校籍地进行交流的盛会。我们期待着在公正的规则下，学生们能够挑战自己的界限和可能性，为学校间的交流做出贡献。作为全体学生们共同享受，共同参与的节日，希望各位学生们都能够提出新的建议并积极地参与。',
       -1
     )
   ),
@@ -12930,12 +12930,13 @@ const Mi = n => (en('data-v-5145fff9'), (n = n()), tn(), n),
           let y = await $t.get('/api/program/list.json');
           (s.value = y.rows), (f.value = y.count);
         } catch (y) {
-          console.log('error123123', y);
+          console.error(y);
         }
       };
       let m = se(-1);
-      const v = (y, A) => {
-        console.log('rul', A), window.open(A, '_blank');
+      const v = (y, A, available) => {
+        if (!available) return;
+        window.open(A, '_blank');
       };
       return (
         yt(async () => {
@@ -13007,10 +13008,10 @@ const Mi = n => (en('data-v-5145fff9'), (n = n()), tn(), n),
                                 'div',
                                 {
                                   key: 0,
-                                  class: 'more_btn',
-                                  onClick: P => v(T, C.link),
+                                  class: bt(['more_btn', { unavailable: !C.available }]),
+                                  onClick: P => v(T, C.link, C.available), // 参数 T 根本没用上, GOTO L12937
                                 },
-                                fp,
+                                fp, // fp = [op, lp] 渲染函数， GOTO L12913
                                 8,
                                 ap
                               ))
