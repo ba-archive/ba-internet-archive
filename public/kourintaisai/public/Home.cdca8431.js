@@ -12934,7 +12934,7 @@ const Mi = n => (en('data-v-5145fff9'), (n = n()), tn(), n),
         }
       };
       let m = se(-1);
-      const v = (y, A, available) => {
+      const v = (A, available) => {
         if (!available) return;
         window.open(A, '_blank');
       };
@@ -13009,7 +13009,7 @@ const Mi = n => (en('data-v-5145fff9'), (n = n()), tn(), n),
                                 {
                                   key: 0,
                                   class: bt(['more_btn', { unavailable: !C.available }]),
-                                  onClick: P => v(T, C.link, C.available), // 参数 T 根本没用上, GOTO L12937
+                                  onClick: P => v(C.link, C.available), // GOTO L12937
                                 },
                                 fp, // fp = [op, lp] 渲染函数， GOTO L12913
                                 8,
