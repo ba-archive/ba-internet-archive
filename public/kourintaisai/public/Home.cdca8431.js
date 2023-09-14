@@ -12852,12 +12852,12 @@ const qi = n => (en('data-v-372ef78e'), (n = n()), tn(), n),
   Vc = rs(
     '<img class="daji_title" id="anchor2" src="' +
       Dc +
-      '" alt="" data-v-372ef78e><div class="article" data-v-372ef78e><div class="article_title" data-v-372ef78e>概要</div><div class="title_bar yellow" data-v-372ef78e></div><div class="article_text" data-v-372ef78e> 基沃托斯大运动会——通称「晄轮大祭」，是由联邦学生会「行政委员会」所主导、每2年举办1届、基沃托斯最大级别的体育盛会。各个学校轮流担任主办方，掌管运营方面的自由裁量权，同时每个学校的技术与文化都会在大运动会上得到强烈的体现，就仿佛是一场博览会一般。今年的主办方是「千年科技学院」。 </div></div>',
+      '" alt="" data-v-372ef78e><div class="article" data-v-372ef78e><div class="article_title" data-v-372ef78e>概  要</div><div class="title_bar yellow" data-v-372ef78e></div><div class="article_text" data-v-372ef78e> 基沃托斯大运动会——通称「晄轮大祭」，是由联邦学生会「行政委员会」所主导、每2年举办1届、基沃托斯最大级别的体育盛会。各个学校轮流担任主办方，掌管运营方面的自由裁量权，同时每个学校的技术与文化都会在大运动会上得到强烈的体现，就仿佛是一场博览会一般。今年的主办方是「千年科技学院」。 </div></div>',
     2
   ),
   jc = { class: 'article' },
   Wc = qi(() =>
-    U('div', { class: 'article_title' }, '理念', -1)
+    U('div', { class: 'article_title' }, '理  念', -1)
   ),
   Kc = qi(() => U('div', { class: 'title_bar purple' }, null, -1)),
   Hc = qi(() =>
