@@ -12908,7 +12908,7 @@ const Mi = n => (en('data-v-5145fff9'), (n = n()), tn(), n),
   sp = { key: 1, class: 'title_text' },
   up = { class: 'content_desc' },
   ap = ['onClick'],
-  op = Mi(() => U('div', { class: 'btn_text' }, 'MORE', -1)),
+  op = Mi(() => U('div', { class: 'btn_text' }, '', -1)),
   lp = Mi(() => U('div', { class: 'arr' }, null, -1)),
   fp = [op, lp],
   dp = dt({

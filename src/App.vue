@@ -18,6 +18,7 @@ const archiveList = [
 <template>
   <h1>档案馆</h1>
   <el-timeline class="timeline">
+    <!--eslint-disable-next-line vue/valid-v-for -->
     <el-timeline-item
       v-for="archive in archiveList"
       :timestamp="archive.date"
