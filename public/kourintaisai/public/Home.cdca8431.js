@@ -12612,7 +12612,7 @@ const Us = n => (en('data-v-21e28708'), (n = n()), tn(), n),
                           [
                             Date.now() - oe.publishTime < 1728e5
                               ? (z(), Y('img', Ec))
-                              : ce('v-if', !0),
+                              : ce('v-if', !0), // 发布时间戳在两天之内，加上 new 标签
                             U('div', bc, $e(oe.title), 1),
                             U('div', Bc, $e(oe.description), 1),
                           ],
