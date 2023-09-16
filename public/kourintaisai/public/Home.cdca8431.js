@@ -12610,9 +12610,9 @@ const Us = n => (en('data-v-21e28708'), (n = n()), tn(), n),
                             key: je,
                           },
                           [
-                            Date.now() - oe.publishTime < 12096e5
+                            oe.hasOwnProperty('incremental') && oe.incremental
                               ? (z(), Y('img', Ec))
-                              : ce('v-if', !0), // 发布时间戳距离当前时间 n 天之内，加上 new 标签
+                              : ce('v-if', !0), // 如果是本次的增量新闻，显示 new 图标
                             U('div', bc, $e(oe.title), 1),
                             U('div', Bc, $e(oe.description), 1),
                           ],
