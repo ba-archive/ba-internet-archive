@@ -2302,6 +2302,9 @@ button.swiper-pagination-bullet {
     height: 15.0666666667rem;
     overflow-y: scroll;
     word-break: break-all;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
   }
   .new_modal .modal_content .modal_title[data-v-9cc3a912] {
     font-weight: 700;
