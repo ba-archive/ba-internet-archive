@@ -12418,7 +12418,7 @@ const Us = n => (en('data-v-21e28708'), (n = n()), tn(), n),
                         class: 'title_item',
                         onClick: ae[3] || (ae[3] = oe => Q(2)),
                       },
-                      '\u6644\u8F2A\u5927\u796D\u3068\u306F'
+                      '关于晄轮大祭'
                     ),
                     U(
                       'li',
@@ -12434,7 +12434,7 @@ const Us = n => (en('data-v-21e28708'), (n = n()), tn(), n),
                         class: 'title_item',
                         onClick: ae[5] || (ae[5] = oe => Q(4)),
                       },
-                      '\u30D7\u30ED\u30B0\u30E9\u30E0'
+                      '项目'
                     ),
                     U(
                       'li',
