@@ -12283,7 +12283,7 @@ const Us = n => (en('data-v-21e28708'), (n = n()), tn(), n),
       const Le = async () => {
         if (ue) return;
         let he;
-        if (((he = await $t.get(`/api/news/list_${C}.json`)), he.rows.length))
+        if (((he = await $t.get(`/api/news/list_${C}.json?t=${Date.now()}`)), he.rows.length))
           m.value = m.value.concat(he.rows);
         else {
           ue = !0;
@@ -12309,7 +12309,7 @@ const Us = n => (en('data-v-21e28708'), (n = n()), tn(), n),
           window.removeEventListener('scroll', Ae);
         });
       const et = async he => {
-          let ae = await $t.get(`/api/news/detail_${he}.json`);
+          let ae = await $t.get(`/api/news/detail_${he}.json?t=${Date.now()}`);
           lt(() => {
             v.value = ae.news;
           });

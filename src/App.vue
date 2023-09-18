@@ -17,21 +17,14 @@ const archiveList = [
 
 <template>
   <h1>档案馆</h1>
-  <el-timeline class="timeline">
-    <!--eslint-disable-next-line vue/valid-v-for -->
-    <el-timeline-item
-      v-for="archive in archiveList"
-      :timestamp="archive.date"
-      placement="top"
-      color="#3f88f2"
-      size="large"
-    >
-      <a class="item-card rounded-small shadow-farther" :href="archive.url">
+  <a-timeline>
+    <a-timeline-item v-for="archive in archiveList" :label="archive.date" :key="archive.date">
+      <a class="item-card rounded-small" :href="archive.url">
         <img class="icon" :src="archive.icon" alt="icon" />
         <div class="title">{{ archive.title }}</div>
       </a>
-    </el-timeline-item>
-  </el-timeline>
+    </a-timeline-item>
+  </a-timeline>
 </template>
 
 <style scoped lang="scss">
@@ -43,6 +36,7 @@ h1 {
 .item-card {
   display: flex;
   align-items: center;
+  border: 1px solid #e5e6eb;
   background-color: var(--color-card-background);
   padding: 1rem;
   color: var(--color-text-main);

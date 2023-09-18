@@ -7,6 +7,9 @@ export {}
 
 declare module '@vue/runtime-core' {
   export interface GlobalComponents {
+    ATag: typeof import('@arco-design/web-vue')['Tag']
+    ATimeline: typeof import('@arco-design/web-vue')['Timeline']
+    ATimelineItem: typeof import('@arco-design/web-vue')['TimelineItem']
     ElTimeline: typeof import('element-plus/es')['ElTimeline']
     ElTimelineItem: typeof import('element-plus/es')['ElTimelineItem']
   }
