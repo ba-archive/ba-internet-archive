@@ -10,7 +10,7 @@ const archiveList = [
     title: '「晄轮大祭」正式网站',
     url: '/kourintaisai/index.html',
     date: '2022/11/29',
-    icon: '/2nd-anniversary/img/logo.1b872cbe.svg',
+    icon: '/kourintaisai/public/favicon.png',
   },
 ];
 </script>
