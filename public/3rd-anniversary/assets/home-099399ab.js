@@ -6661,9 +6661,9 @@ const hn = X(fr, [['render', gr]]),
     },
   }),
   yr =
-    './assets/kv-a066cf20.png',
+    './kv-a066cf20.png',
   mn =
-    './assets/lo-82304b19.png';
+    './lo-82304b19.png';
 const br = { class: 'kv' },
   Sr = { key: 0, class: 'kv_image' },
   wr = p('img', { src: yr }, null, -1),
@@ -6749,7 +6749,7 @@ const Dr = X(_r, [['render', Ar]]),
     },
   }),
   Br =
-    './assets/title-10c9493e.png';
+    '/title-10c9493e.png';
 const jr = { id: 'Summary', class: 'Summary ba-three_card card_p' },
   Fr = p('div', { class: 'ba-three_title' }, [p('img', { src: Br })], -1),
   Rr = ['innerHTML'],
@@ -6811,17 +6811,17 @@ function Yr(e, n, t, i, s, a) {
 }
 const Xr = X(Nr, [['render', Yr]]),
   qr =
-    './assets/program1-27a75bf5.png',
+    './program1-27a75bf5.png',
   Ur =
-    './assets/program2-d0ce7ecd.png',
+    './program2-d0ce7ecd.png',
   Kr =
-    './assets/program3-a9435284.png',
+    './program3-a9435284.png',
   Qr =
-    './assets/program4-01af5395.png',
+    './program4-01af5395.png',
   Zr =
-    './assets/map-9619a45a.pdf',
+    './map-9619a45a.pdf',
   Jr =
-    './assets/foodmenu-53c1819d.pdf',
+    './foodmenu-53c1819d.pdf',
   eo = Y({
     name: 'Program',
     data() {
@@ -7019,9 +7019,9 @@ const Xr = X(Nr, [['render', Yr]]),
     },
   }),
   to =
-    './assets/title-0d8e1080.png',
+    '/title-0d8e1080.png',
   no =
-    './assets/map-375a60f7.png';
+    './map-375a60f7.png';
 const io = { id: 'Program', class: 'Program ba-three_card card_p' },
   so = p('div', { class: 'ba-three_title' }, [p('img', { src: to })], -1),
   ao = p('img', { src: no }, null, -1),
@@ -7345,7 +7345,7 @@ const bo = X(eo, [['render', yo]]),
     },
   }),
   wo =
-    './assets/title-2df2153b.png';
+    './title-2df2153b.png';
 const To = { id: 'Stage', class: 'Stage container' },
   Eo = p('div', { class: 'title' }, [p('img', { src: wo })], -1),
   Co = { class: 'time-table' },
@@ -7513,51 +7513,51 @@ function zo(e, n, t, i, s, a) {
 }
 const Ho = X(So, [['render', zo]]),
   Wo =
-    './assets/cast1-ffd3dabf.png',
+    './cast1-ffd3dabf.png',
   Vo =
-    './assets/cast2-5e31f1d3.png',
+    './cast2-5e31f1d3.png',
   Go =
-    './assets/cast3-5bacf680.png',
+    './cast3-5bacf680.png',
   Yo =
-    './assets/cast4-07bc97c3.png',
+    './cast4-07bc97c3.png',
   Xo =
-    './assets/cast5-2ad4e8c3.png',
+    './cast5-2ad4e8c3.png',
   qo =
-    './assets/cast6-69cb7464.png',
+    './cast6-69cb7464.png',
   Uo =
-    './assets/cast7-84ebf84c.png',
+    './cast7-84ebf84c.png',
   Ko =
-    './assets/cast8-59978858.png',
+    './cast8-59978858.png',
   Qo =
-    './assets/cast9-ea881328.png',
+    './cast9-ea881328.png',
   Zo =
-    './assets/cast10-cbdc8a84.png',
+    './cast10-cbdc8a84.png',
   Jo =
-    './assets/cast11-7256302d.png',
+    './cast11-7256302d.png',
   el =
-    './assets/cast12-9ea92c6d.png',
+    './cast12-9ea92c6d.png',
   tl =
-    './assets/cast13-94aeebde.png',
+    './cast13-94aeebde.png',
   nl =
-    './assets/cast14-07099599.png',
+    './cast14-07099599.png',
   il =
-    './assets/cast15-bee73ab2.png',
+    './cast15-bee73ab2.png',
   sl =
-    './assets/cast16-71f37314.png',
+    './cast16-71f37314.png',
   al =
-    './assets/cast17-3ef78ece.png',
+    './cast17-3ef78ece.png',
   rl =
-    './assets/cast18-cd14a0e9.png',
+    './cast18-cd14a0e9.png',
   ol =
-    './assets/cast19-01ccb442.png',
+    './cast19-01ccb442.png',
   ll =
-    './assets/cast20-923f2fc2.png',
+    './cast20-923f2fc2.png',
   dl =
-    './assets/cast21-218ca0cd.png',
+    './cast21-218ca0cd.png',
   ul =
-    './assets/cast22-43fac92c.png',
+    './cast22-43fac92c.png',
   cl =
-    './assets/cast23-aaf422cf.png',
+    './cast23-aaf422cf.png',
   fl = Y({
     name: 'Role',
     data() {
@@ -7591,7 +7591,7 @@ const Ho = X(So, [['render', zo]]),
     },
   }),
   pl =
-    './assets/title-3778fc44.png';
+    './title-3778fc44.png';
 const hl = { id: 'Role', class: 'Role ba-three_card' },
   ml = p('div', { class: 'ba-three_title' }, [p('img', { src: pl })], -1),
   vl = { class: 'role-content' },
@@ -7725,7 +7725,7 @@ const Tl = X(fl, [['render', wl]]),
     },
   }),
   Cl =
-    './assets/title-1061fe62.png';
+    './title-1061fe62.png';
 const xl = { id: 'Ticket', class: 'Ticket ba-three_card' },
   $l = { class: 'card_p' },
   Ml = p('div', { class: 'ba-three_title' }, [p('img', { src: Cl })], -1),
@@ -7874,7 +7874,7 @@ function Xl(e, n, t, i, s, a) {
 }
 const ql = X(El, [['render', Xl]]),
   Ul =
-    './assets/image1-e0be3310.jpg',
+    './image1-e0be3310.jpg',
   Kl = Y({
     name: 'TipsPage',
     props: { isPC: Boolean },
@@ -8058,9 +8058,9 @@ const ql = X(El, [['render', Xl]]),
     },
   }),
   Ql =
-    './assets/title-8b44dce0.png',
+    './title-8b44dce0.png',
   Zl =
-    './assets/title_m-6589482b.png';
+    './title_m-6589482b.png';
 const Jl = { id: 'TipsPage', class: 'TipsPage ba-three_card card_p' },
   ed = { class: 'ba-three_title' },
   td = { key: 0, src: Ql },
@@ -8416,13 +8416,13 @@ const Dd = X(ld, [['render', Ad]]),
     },
   }),
   Bd =
-    './assets/title-a0a0b1e1.png',
+    './title-a0a0b1e1.png',
   jd =
-    './assets/yostar1-66d8898e.png',
+    './yostar1-66d8898e.png',
   Fd =
-    './assets/image38-81cd15b1.png',
+    './image38-81cd15b1.png',
   Rd =
-    './assets/elf-40adffdf.png';
+    './elf-40adffdf.png';
 const zd = { id: 'Commodity', class: 'Commodity ba-three_card' },
   Hd = $n(
     '<div class="ba-three_title"><img src="' +
@@ -8734,9 +8734,9 @@ const ru = X(Ud, [['render', au]]),
     },
   }),
   lu =
-    './assets/ticket-1a487817.png',
+    './ticket-1a487817.png',
   du =
-    './assets/perimeter-619fd28b.png';
+    './perimeter-619fd28b.png';
 const uu = { style: { animation: 'floatGif 3s infinite' } },
   cu = p('img', { src: lu }, null, -1),
   fu = [cu],

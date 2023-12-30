@@ -4154,13 +4154,13 @@ const hA = ne({
     },
   }),
   vA =
-    './assets/app-1c970c70.png',
+    './app-1c970c70.png',
   mA =
-    './assets/google-7fa5f93c.png',
+    './google-7fa5f93c.png',
   bA =
-    './assets/nexon-243d8448.png',
+    './nexon-243d8448.png',
   yA =
-    './assets/yostar-f746c1de.png',
+    './yostar-f746c1de.png',
   SA =
     'data:image/png;base64,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';
 const ic = (e, t) => {
@@ -4247,9 +4247,9 @@ const TA = ic(hA, [['render', IA]]),
     },
   }),
   MA =
-    './assets/Q-862c2944.png',
+    './Q-862c2944.png',
   _A =
-    './assets/fish-9fba776c.png';
+    './fish-9fba776c.png';
 const AA = { key: 0, class: 'cursorPointer' },
   RA = zn('img', { src: MA }, null, -1),
   DA = [RA],
@@ -4344,9 +4344,9 @@ const WA = ic(LA, [['render', jA]]),
     },
   }),
   KA =
-    './assets/logo1-54a60cb3.png',
+    './logo1-54a60cb3.png',
   GA =
-    './assets/logo-e29eed1c.png';
+    './logo-e29eed1c.png';
 const XA = { key: 0, class: 'FirstScreen' },
   UA = zn(
     'div',
