@@ -1,6 +1,12 @@
 <script setup lang="ts">
 const archiveList = [
   {
+    title: '蔚蓝档案 ｜ 3周年纪念特设网站',
+    url: '/3rd-anniversary/index.html',
+    date: '2023/12/24',
+    icon: '/3rd-anniversary/assets/fish-9fba776c.png',
+  },
+  {
     title: '蔚蓝档案 ｜ 2周年纪念特设网站',
     url: '/2nd-anniversary/index.html',
     date: '2023/01/22',
