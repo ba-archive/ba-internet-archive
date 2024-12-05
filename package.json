@@ -40,7 +40,7 @@
     "unplugin-auto-import": "0.17.5",
     "unplugin-vue-components": "0.26.0",
     "vfonts": "0.0.3",
-    "vite": "5.2.2",
+    "vite": "6.0.3",
     "vue-eslint-parser": "9.4.2",
     "vue-tsc": "2.0.7"
   }
